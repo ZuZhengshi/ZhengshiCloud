@@ -1,0 +1,15 @@
+fixme:ole:snapshot_QueryGetData (0x45c76f0, 0x33a010 {cf c00a ptd (nil) aspect 1 lindex -1 tymed 4})
+fixme:ole:snapshot_QueryGetData (0x45c76f0, 0x339dcc {cf c05d ptd (nil) aspect 1 lindex -1 tymed 1})
+fixme:ole:snapshot_QueryGetData (0x45c76f0, 0x339fcc {cf c00a ptd (nil) aspect 1 lindex -1 tymed 4})
+fixme:ole:snapshot_QueryGetData (0x45c76f0, 0x339d88 {cf c05d ptd (nil) aspect 1 lindex -1 tymed 1})
+fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(0x155c38)
+fixme:msctf:TextStoreACPSink_OnLayoutChange STUB:(0x155c38)
+fixme:imm:NotifyIME IMC_SETCANDIDATEPOS
+fixme:ole:snapshot_QueryGetData (0x45c76f0, 0x33dec8 {cf c00a ptd (nil) aspect 1 lindex -1 tymed 4})
+fixme:ole:snapshot_QueryGetData (0x45c76f0, 0x33dc84 {cf c05d ptd (nil) aspect 1 lindex -1 tymed 1})
+fixme:ole:snapshot_QueryGetData (0x45c76f0, 0x33de84 {cf c00a ptd (nil) aspect 1 lindex -1 tymed 4})
+fixme:ole:snapshot_QueryGetData (0x45c76f0, 0x33dc40 {cf c05d ptd (nil) aspect 1 lindex -1 tymed 1})
+fixme:msctf:TextStoreACPSink_OnStartEditTransaction STUB:(0x155c38)
+fixme:msctf:TextStoreACPSink_OnEndEditTransaction STUB:(0x155c38)
+
+
